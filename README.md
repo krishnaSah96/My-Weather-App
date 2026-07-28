@@ -48,12 +48,13 @@ WEATHER_API_KEY=your_api_key_here
 - `searchLocations(query)` - Search for locations
 
 ## Technologies
-- JavaScript/Node.js
+- JavaScript/Node.js 
 - REST API integration
 - [Your framework]
 
 ## Contributing
-Pull requests are welcome. For major changes, open an issue first.
+Pull requests are welcome. For major changes, open an issue first.  
 
 ## License
 MIT
+   
